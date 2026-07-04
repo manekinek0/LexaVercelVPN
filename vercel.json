@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Disposition",
-          "value": "attachment; filename=\"Neuro-Lexa-Vercel.txt\""
+          "value": "attachment; filename*=UTF-8''%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20Lexa%20Vercel.txt"
         },
         {
           "key": "Subscription-Userinfo",
@@ -13,11 +13,11 @@
         },
         {
           "key": "profile-title",
-          "value": "Нейро Lexa Vercel"
+          "value": "%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20Lexa%20Vercel"
         },
         {
           "key": "x-profile-title",
-          "value": "Нейро Lexa Vercel"
+          "value": "%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20Lexa%20Vercel"
         }
       ]
     }
