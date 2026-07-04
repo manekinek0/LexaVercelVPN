@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename*=UTF-8''Нейро Lexa Vercel.txt"
+        },
+        {
+          "key": "Subscription-Userinfo",
+          "value": "upload=0; download=0; total=536870912000; expire=1956220800"
+        }
+      ]
+    }
+  ]
+}
