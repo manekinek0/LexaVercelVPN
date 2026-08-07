@@ -1,10 +1,7 @@
 #profile-title: НейроLexa Paid 
 #
-hysteria2://11c624fa-3d36-4814-a2c3-82e066c1421c@91.185.83.48:8465?sni=itit.nimarko.org#%F0%9F%87%AE%F0%9F%87%B9%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%201
-hysteria2://11c624fa-3d36-4814-a2c3-82e066c1421c@91.185.83.48:8586?sni=spsp.nimarko.org#%F0%9F%87%AA%F0%9F%87%B8%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%202
-hysteria2://11c624fa-3d36-4814-a2c3-82e066c1421c@91.185.83.48:8443?sni=pols2.nimarko.org#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%203
-hysteria2://11c624fa-3d36-4814-a2c3-82e066c1421c@91.185.83.48:8448?sni=testing5.nimarko.org#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%204
-hysteria2://11c624fa-3d36-4814-a2c3-82e066c1421c@91.185.83.48:8449?sni=testing9.nimarko.org#%F0%9F%87%A9%F0%9F%87%AA%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%205
+vless://8e9e9f2a-f4ee-48a3-aa3f-d79169890ca8@91.185.83.94:443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=E96O40ypyPplb8XGZ9eYMtTiaATD8jlyhIgc3DOZr0o&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%208
+vless://8e9e9f2a-f4ee-48a3-aa3f-d79169890ca8@91.185.83.94:5443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=A3BZvaih9lBbMaKWjndiEdhCDZLMRbeRD1fI8CP4324&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%209
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8448?sni=testing5.nimarko.org#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%201
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8465?sni=itit.nimarko.org#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%202
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8586?sni=spsp.nimarko.org#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%203
@@ -13,6 +10,3 @@ hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8465?sni=itit.nima
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8586?sni=spsp.nimarko.org#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%206
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8465?sni=itit.nimarko.org#%F0%9F%87%AE%F0%9F%87%B9%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%207
 hysteria2://1e727b1f-fdd0-4544-9cc6-b504df3bed92@91.185.83.48:8586?sni=spsp.nimarko.org#%F0%9F%87%AA%F0%9F%87%B8%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%208
-vless://c78e377b-fd29-45f4-bb18-9dccbbc50201@91.185.83.94:5443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=A3BZvaih9lBbMaKWjndiEdhCDZLMRbeRD1fI8CP4324&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#%F0%9F%8C%8D%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%201
-vless://c78e377b-fd29-45f4-bb18-9dccbbc50201@91.185.83.43:4443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=7nfL5nnISA027dQ-thHwql8JquJwH09zZJrYrw994XU&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#%F0%9F%8C%8D%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%202
-vless://c78e377b-fd29-45f4-bb18-9dccbbc50201@91.185.83.94:443?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=E96O40ypyPplb8XGZ9eYMtTiaATD8jlyhIgc3DOZr0o&security=reality&sid=&sni=5post-gate.x5.ru&type=tcp#%F0%9F%8C%8D%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20%D0%9B%D0%B5%D1%85%D0%B0%203
